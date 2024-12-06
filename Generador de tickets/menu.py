@@ -1,0 +1,16 @@
+#import os
+def menu():
+    #os.system("cls")
+    print("------------------------------------------------------------------------------------")
+    print("|                      Bienvenido al sistema de Tickets                            |")
+    print("------------------------------------------------------------------------------------")
+    print(" ")
+    print("          Favor seleccionar una de las siguientes opciones para continuar:")
+    print(" ")
+    print("                        1 - Generar un Nuevo Ticket")
+    print("                        2 - Leer un Ticket")
+    print("                        3 - Salir")
+    print(" ")
+    print("------------------------------------------------------------------------------------")
+    print("|                      Sistema de Tickets by Martin Zapata                         |")
+    print("------------------------------------------------------------------------------------")
